@@ -1,6 +1,0 @@
-
-
-
-
-
-def genetic_algorithm():...

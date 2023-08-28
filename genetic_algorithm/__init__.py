@@ -1,6 +1,6 @@
 """ 遗传算法 """
 
-from .genetic_file import genetic_algorithm
+from .details import genetic_algorithm
 
 
 
